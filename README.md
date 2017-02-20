@@ -5,4 +5,7 @@ First Repository
 ###Topic = 
 ###Copyright Information
 
-###Abstract - Project is about finding bext method to incorporate promotions in a corporate.
+###Abstract
+The project contains data science profile of Asha Mohan. It also contains
+the files from professor McGee's repository called 'stat6306datascience'
+ 
