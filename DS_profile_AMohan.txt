@@ -1,0 +1,9 @@
+Skill Set Skill Level
+Computer Programming 4
+Math 3
+Statistics 2
+Machine Learning 1
+Doamin Experience 4
+Communication 4
+Presentation 4
+Data Visualization 1
